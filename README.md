@@ -1,6 +1,6 @@
 # PyTorch Image Classification Project
 
-**Developed By:** Md Ishraq Tanzim
+**Developed By:** Maleha Mahfuj
 
 ## Overview
 This project demonstrates the implementation of Convolutional Neural Network (CNN) and a simpler neural network model for image classification using PyTorch. It includes data preprocessing, model training, evaluation, and visualization techniques to effectively classify images and analyze model performance. The primary objective is to implement a machine learning model that can classify hand-written digit images taken from the MNIST dataset. The challenge, solved in this project, involves using a limited dataset to learn a classifier that generalizes well to unseen test data. The dataset includes images where the top sub-image acts as a pointer to either the middle or bottom sub-images, which determines the label of the whole image based on the digit displayed in the top sub-image.
@@ -27,7 +27,7 @@ This project demonstrates the implementation of Convolutional Neural Network (CN
 ## Getting Started
 To get started, clone this repository and install the required dependencies:
 ```
-git clone https://github.com/Ishraq3002/Dynamic-Image-Analysis-using-Deep-Learning
+git clone https://github.com/maleha-b-mahfuj/Dynamic-Image-Analysis-using-Deep-Learning
 pip install -r requirements.txt
 ```
 
@@ -42,6 +42,6 @@ Ensure you have the training and validation datasets in the project directory be
 Contributions to improve the models or extend the project's capabilities are welcome. Please submit a pull request or open an issue for discussion.
 
 ## Contact
-- Name: Md Ishraq Tanzim
-- Email: mdishraqtanzim@cmail.carleton.ca
+- Name: Maleha Mahfuj
+- Email: malehamahfuj@cmail.carleton.ca
 
